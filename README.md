@@ -1,6 +1,6 @@
 # Death-Age-Difference-of-Right-Handers-with-Left-Handers-Project
 Analysis of Death Age Difference of Right-Handers with Left Handers
-## 1. Where are the old left-handed people?
+
 In this project, we will investigate the claim that left-handed individuals tend to die at a younger age than right-handed individuals. To explore this phenomenon, we will use age distribution data and employ Bayesian statistics to analyze the probability of different ages at death based on whether an individual is reported as left-handed or right-handed.
 
 We will utilize Python's powerful data manipulation library, pandas, to work with the data and create insightful visualizations using matplotlib. Additionally, we will leverage numpy arrays for numerical computations and construct probabilities from frequency data.
