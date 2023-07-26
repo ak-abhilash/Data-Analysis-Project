@@ -7,4 +7,4 @@ We will utilize Python's powerful data manipulation library, pandas, to work wit
 
 The objective is to examine if there is any evidence to support the assertion that left-handed people have a shorter lifespan compared to their right-handed counterparts. By using Bayesian statistics, we aim to gain a deeper understanding of this claim and whether it holds true in light of the changing rates of left-handedness over time.
 
-To participate in this project, a solid understanding of concepts from pandas Foundations, Statistical Thinking in Python, and Introduction to Data Visualization with Python is recommended. These skills will be essential in performing data analysis and interpreting the results effectively.
+To participate in this project, a solid understanding of concepts from pandas Foundations, Statistical Thinking in Python, and Introduction to Data Visualization with Python is recommended. These skills will be essential in performing data analysis and interpreting the results effectively
